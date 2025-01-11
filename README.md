@@ -1,0 +1,2 @@
+# Expense-Tracker-Using-Tableau-Visualizing-and-Analyzing-Personal-and--Business-Expenses
+Developed an expense tracker using Tableau, enabling users to visualize and analyze personal or business expenses. Utilized interactive dashboards and charts to identify spending patterns and categorize expenses. Resulted in improved budget management and enhanced decision-making by ofering actionable insights into spending  behavior.
